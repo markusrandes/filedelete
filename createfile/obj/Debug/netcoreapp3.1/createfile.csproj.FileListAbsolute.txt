@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ClearFolder\createfile\bin\Debug\netcoreapp3.1\createfile.exe
+C:\Users\opilane\source\repos\ClearFolder\createfile\bin\Debug\netcoreapp3.1\createfile.deps.json
+C:\Users\opilane\source\repos\ClearFolder\createfile\bin\Debug\netcoreapp3.1\createfile.runtimeconfig.json
+C:\Users\opilane\source\repos\ClearFolder\createfile\bin\Debug\netcoreapp3.1\createfile.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ClearFolder\createfile\bin\Debug\netcoreapp3.1\createfile.dll
+C:\Users\opilane\source\repos\ClearFolder\createfile\bin\Debug\netcoreapp3.1\createfile.pdb
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.dll
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.pdb
+C:\Users\opilane\source\repos\ClearFolder\createfile\obj\Debug\netcoreapp3.1\createfile.genruntimeconfig.cache
